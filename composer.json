@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor-namevghjiokjnjbf/package-name",
+    "name": "adrianbk/tracy-debugger",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
